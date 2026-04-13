@@ -477,4 +477,3 @@ This setup script is provided as-is under MIT License. XMRig itself is licensed 
 ---
 
 **⚠️ Disclaimer:** Cryptocurrency mining consumes significant electricity. Ensure you have permission to mine on your hardware and understand the costs involved. This software is provided without warranty. Mine responsibly.
-
